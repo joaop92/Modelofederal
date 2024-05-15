@@ -1,0 +1,10 @@
+Modelojogodobicho
+Projeto com proposito de implementar e tentar achar possiveis variaçoes de numeros que possam da na loteria ou no jogo do bicho na extração da federal, de quarta e sabado.
+
+Instalação
+Pandas: O uso do Pandas para manipulação e análise de dados para  "Federal.xlsx".
+
+Scikit-learn: O uso de Machine Learning para prever resultados no jogo do bicho e da federal. O Scikit-learn é uma biblioteca popular de Machine Learning em Python, usei para treinar e avaliar modelos de previsão.
+
+
+#fonte onde peguei a base de dados foi o site da caixa https://loterias.caixa.gov.br/Paginas/Federal.aspx onde tem toda as loterias de 1962 até atualmente!
